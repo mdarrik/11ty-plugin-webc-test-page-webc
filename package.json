@@ -1,0 +1,17 @@
+{
+  "name": "11ty-plugin-webc-test-page-webc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "eleventy",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.0-canary.23",
+    "@11ty/eleventy-plugin-webc": "^0.8.1"
+  }
+}
